@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - Who am i:
+  
   I am Karma 20yo.
   I dev since i'm 12 (had no keyboard to type on before).
   I like to explore new language and new ways of coding in generals.
@@ -8,6 +9,7 @@
   My goal is to join a game dev studio.
 
 - 🔭 I’m currently working on:
+  
   I'm currently working on a golang app to manage docker container using docker sdk and dockerfile / docker-compose.yaml
 
 - 🌱 I’m currently learning:

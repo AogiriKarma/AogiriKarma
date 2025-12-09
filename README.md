@@ -20,10 +20,11 @@
   -  discord : aogirikarma
  
  - Some dumb integrations:
-
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/69a5fe8d-adbb-49c7-955d-d0df7fae8bf4/thumbnail" >
-</p>
+<a href="https://www.boot.dev/u/karmaaa">
+  <p align="center" >
+    <img src="https://api.boot.dev/v1/users/public/69a5fe8d-adbb-49c7-955d-d0df7fae8bf4/thumbnail" >
+  </p>
+</a>
 
 <!--
 **AogiriKarma/AogiriKarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

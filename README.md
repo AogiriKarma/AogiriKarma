@@ -20,7 +20,7 @@
   - Discord: aogirikarma
 
 - **🏆 Some dumb integrations:**
-<div align="center">
+<div align="left">
   <a href="https://www.codewars.com/users/AogiriKarma">
     <img src="https://www.codewars.com/users/AogiriKarma/badges/large" width="50%">
   </a>

@@ -20,17 +20,15 @@
   - Discord: aogirikarma
 
 - **🏆 Some dumb integrations:**
-<a href="https://www.codewars.com/users/AogiriKarma" style="width:50%">
-  <p align="center">
-    <img src="https://www.codewars.com/users/AogiriKarma/badges/large">
-  </p>
-</a>
-
-<a href="https://www.boot.dev/u/karmaaa" style="width:50%">
-  <p align="center">
-    <img src="https://api.boot.dev/v1/users/public/69a5fe8d-adbb-49c7-955d-d0df7fae8bf4/thumbnail">
-  </p>
-</a>
+<div align="center">
+  <a href="https://www.codewars.com/users/AogiriKarma">
+    <img src="https://www.codewars.com/users/AogiriKarma/badges/large" width="50%">
+  </a>
+  <br><br>
+  <a href="https://www.boot.dev/u/karmaaa">
+    <img src="https://api.boot.dev/v1/users/public/69a5fe8d-adbb-49c7-955d-d0df7fae8bf4/thumbnail" width="50%">
+  </a>
+</div>
 
 
 

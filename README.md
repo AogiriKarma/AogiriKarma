@@ -14,47 +14,47 @@ Built with Go and the Docker SDK.
 <div align="center">
 <table>
 <tr>
-  <td align="center" width="80">
+  <td align="center" width="100">
     <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></code><br/>
     <sub>Go</sub>
   </td>
-  <td align="center" width="80">
+  <td align="center" width="100">
     <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code><br/>
     <sub>C#</sub>
   </td>
-  <td align="center" width="80">
+  <td align="center" width="100">
     <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" alt="Unity" title="Unity"/></code><br/>
     <sub>Unity</sub>
   </td>
-  <td align="center" width="80">
+  <td align="center" width="100">
     <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code><br/>
     <sub>Python</sub>
   </td>
-  <td align="center" width="80">
+  <td align="center" width="100">
     <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP" title="PHP"/></code><br/>
     <sub>PHP</sub>
   </td>
-  <td align="center" width="80">
+  <td align="center" width="100">
     <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code><br/>
     <sub>HTML</sub>
   </td>
-  <td align="center" width="80">
+  <td align="center" width="100">
     <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code><br/>
     <sub>CSS</sub>
   </td>
-  <td align="center" width="80">
+  <td align="center" width="100">
     <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code><br/>
     <sub>TypeScript</sub>
   </td>
-  <td align="center" width="80">
+  <td align="center" width="100">
     <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code><br/>
     <sub>Docker</sub>
   </td>
-  <td align="center" width="80">
+  <td align="center" width="100">
     <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code><br/>
     <sub>Linux</sub>
   </td>
-  <td align="center" width="80">
+  <td align="center" width="100">
     <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png" alt="Arch Linux" title="Arch Linux"/></code><br/>
     <sub>Arch</sub>
   </td>

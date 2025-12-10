@@ -26,6 +26,14 @@
   </p>
 </a>
 
+<a href="https://www.codewars.com/users/AogiriKarma">
+  <p align="center">
+    <img src="https://www.codewars.com/users/AogiriKarma/badges/large">
+  </p>
+</a>
+
+
+
 <!--
 **AogiriKarma/AogiriKarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
